@@ -1,3 +1,7 @@
+!!Not actually working yet!!
+===
+Currently (11/25/15) being developed to some extent. May not get all the features in, but who knows.
+
 aws-site
 ===
 design a site that you can deploy to aws via lambdas and s3
